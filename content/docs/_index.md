@@ -1,18 +1,11 @@
 ---
-title: Documentation
-next: first-page
+title: "Hướng dẫn sử dụng"
 ---
 
-This is a demo of the theme's documentation layout.
+Chọn sản phẩm của bạn để xem hướng dẫn chi tiết.
 
-## Hello, World!
-
-```go {filename="main.go"}
-package main
-
-import "fmt"
-
-func main() {
-    fmt.Println("Hello, World!")
-}
-```
+{{< cards >}}
+  {{< card link="/docs/product-a" title="Sản phẩm A" image="/images/product-a-thumb.jpg" >}}
+  {{< card link="/docs/product-b" title="Sản phẩm B" image="/images/product-b-thumb.jpg" >}}
+  {{< card link="/docs/product-c" title="Sản phẩm C" image="/images/product-c-thumb.jpg" >}}
+{{< /cards >}}
