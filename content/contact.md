@@ -6,11 +6,12 @@ title: "Liên hệ"
 
 HKD Điện Tử Cà Mau – Phát triển và Phân phối sản phẩm Chuông Gameshow không dây.
 
-Chúng tôi luôn mong muốn mang đến trải nghiệm tốt nhất và luôn sẵn sàng hỗ trợ khách hàng.
+Chúng tôi luôn mong muốn mang đến trải nghiệm tốt nhất và luôn sẵn sàng hỗ trợ khách hàng trong khả năng của mình.
 
 ## Thông tin thanh toán
 
 Tài khoản: MB Bank - Ngân Hàng Quân Đội
+
 Số tài khoản: 990609698
 
 ## Thông tin liên hệ
