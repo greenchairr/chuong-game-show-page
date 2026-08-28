@@ -59,7 +59,7 @@ image: "/images/product-b-thumb.jpg"
 - **Ví dụ:** Nếu đội Xanh lá nhấn nút, đèn LED trên bộ điều khiển sẽ sáng màu Xanh lá.
 - **Lợi ích:** Người dẫn chương trình và khán giả có thể nhận biết ngay lập tức đội nào đã giành quyền trả lời mà không cần nhìn vào màn hình.
 
-✨ **Điểm nổi bật 2:** Thay đôi được cách phát âm thanh khi có một đội nhấn nút. 
+✨ **Điểm nổi bật 2:** Thay đổi được **âm thanh phát ra ** khi có một đội nhấn nút. 
 
 - **Cách làm:** Nhấn giữ nút màu **Xanh** trên bộ điều khiển để chuyển chế độ âm thanh.
 - **Chế độ âm thanh:** Có 3 chế độ chính: Cơ bản, Gọi số, Phát tiếng động vật.
