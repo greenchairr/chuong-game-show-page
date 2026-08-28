@@ -40,10 +40,10 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: "/images/your-logo.png"    # ← This is an object with 'path'
+      path: "./images/your-logo.png"   
       width: 40
       height: 40
-      link: /
+      link: /chuong-game-show-page/
 
   footer:
     displayCopyright: false
