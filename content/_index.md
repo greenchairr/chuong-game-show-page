@@ -15,12 +15,12 @@ Sản phẩm của chúng tôi giúp các đội chơi dễ dàng giành quyền
 Dưới đây là một số hình ảnh khách hàng đang sử dụng sản phẩm **Chuông Gameshow Điện Tử Cà Mau**:
 
 {{< cards >}}
-  {{< card image="/images/gallery/customer-1.jpg" title="Gameshow tại trường học" >}}
-  {{< card image="/images/gallery/customer-2.jpg" title="Sự kiện team-building công ty" >}}
-  {{< card image="/images/gallery/customer-3.jpg" title="Chương trình giải trí địa phương" >}}
-  {{< card image="/images/gallery/customer-4.jpg" title="Hội chợ triển lãm" >}}
-  {{< card image="/images/gallery/customer-5.jpg" title="Cuộc thi sinh viên" >}}
-  {{< card image="/images/gallery/customer-6.jpg" title="Sự kiện từ thiện" >}}
+  {{< card image="/images/gallery/customer-1.jpg" title="Hoạt động trong lớp học" >}}
+  {{< card image="/images/gallery/customer-2.jpg" title="Hoạt động trong lớp học" >}}
+  {{< card image="/images/gallery/customer-3.jpg" title="Cuộc thi tiếng Anh" >}}
+  {{< card image="/images/gallery/customer-4.jpg" title="Cuộc thi tiếng Anh nhí" >}}
+  {{< card image="/images/gallery/customer-5.jpg" title="Cuộc thi An Ninh Quốc Gia" >}}
+  {{< card image="/images/gallery/customer-6.jpg" title="Sự kiện" >}}
 {{< /cards >}}
 
 ---
