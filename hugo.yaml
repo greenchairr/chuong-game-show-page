@@ -1,4 +1,5 @@
-  
+defaultContentLanguage: vi
+
 baseURL: https://github.com/greenchairr/chuong-game-show-page/
 
 # Hugo configuration file
