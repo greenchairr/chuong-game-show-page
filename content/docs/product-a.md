@@ -8,7 +8,7 @@ image: "/images/product-a-thumb.jpg"
 
 ## Video hướng dẫn
 
-{{< youtube "https://youtube.com/shorts/Kr2_BZ85g2I?si=jCoFZVvAc823ICCg" >}}
+{{< youtube "Kr2_BZ85g2I" >}}
 
 ---
 
