@@ -2,8 +2,6 @@ baseURL: https://github.com/greenchairr/chuong-game-show-page/
 
 # Hugo configuration file
 title: Điện Tử Cà Mau
-logo: "/images/your-logo.png"
-logoWidth: 40
 
 # import hextra as module
 module:
@@ -33,12 +31,15 @@ menu:
       weight: 3
 
 params:
-  heading:
-    anchors: false
     
   navbar:
     displayTitle: true
     displayLogo: true
+    logo:
+      path: /images/your-logo.png
+      link: /
+      width: 40
+      height: 40
 
   footer:
     displayCopyright: false
@@ -46,3 +47,8 @@ params:
 
   editURL:
     enable: false
+  
+  heading:
+    anchors: false
+
+  
