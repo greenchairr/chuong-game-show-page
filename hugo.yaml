@@ -22,13 +22,13 @@ markup:
 
 menu:
   main:
-    - name: "Home"
+    - name: "Trang Chủ"
       url: "/"
       weight: 1
-    - name: "Manual"
+    - name: "Hướng Dẫn Sử Dụng"
       url: "/docs/"
       weight: 2
-    - name: "Contact"
+    - name: "Liên Hệ"
       url: "/contact/"
       weight: 3
 
