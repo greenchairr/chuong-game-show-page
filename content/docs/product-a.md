@@ -26,7 +26,7 @@ Chuông Gameshow Giành Quyền Trả Lời Không Dây là một sản phẩm �
 Mở hộp sản phẩm và kiểm tra các phụ kiện đi kèm:
 - 1 điều khiển.
 - 1*x Nút (*số lượng Nút tùy vào đơn đặt hàng).
-- 1x bộ sạc USB A - Type C (tặng kèm cho đơn hàng từ  3 đội chơi)
+- 1x bộ sạc USB A - Type C (tặng kèm cho đơn hàng từ 4 đội chơi)
 - 1x Giấy HDSD
 
 ### Bước 2: Lắp đặt / Chuẩn bị
@@ -48,9 +48,10 @@ Mở hộp sản phẩm và kiểm tra các phụ kiện đi kèm:
 - Khi hoàn thành trò chơi nhấn giữ nút màu Xanh trên bộ điều khiển để tắt toàn bộ nút đang chơi.
 - **Lưu ý: có thể nhấn giữ nút bất kì trong 4 giây để tắt nút đó đi.**
 
-### Bước 4: Bảo quản và vệ sinh
+### Bước 4: Bảo quản
 
-Sản phẩm dùng pin sạc cho nên cần được kiểm tra tình trạng pin đều đặn, tầm 1-2 tuần kiểm tra tình trạng nút nhấn, không nên để lưu kho quá lâu dẫn đến hư pin.
+- Sản phẩm dùng pin sạc cho nên cần được kiểm tra tình trạng pin đều đặn, tầm 1-2 tuần kiểm tra tình trạng nút nhấn, không nên để lưu kho quá lâu dẫn đến hư pin.
+- Sản phẩm có khả năng chịu va đạp nhẹ nhưng không nên quá lạm dụng tránh ảnh hưởng đến vi mạch.
 
 ## 3. Xử lý sự cố thường gặp
 
