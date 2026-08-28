@@ -4,14 +4,12 @@ title: "Liên hệ"
 
 ## Thông tin về tôi
 
-[Tên của bạn] – Nhà sáng lập [Tên sản phẩm].
+HKD Điện Tử Cà Mau – Phát triển và Phân phối sản phẩm Chuông Gameshow không dây.
 
-Tôi chuyên về [lĩnh vực của bạn] và luôn sẵn sàng hỗ trợ khách hàng.
+Chúng tôi luôn mong muốn mang đến trải nghiệm tốt nhất và luôn sẵn sàng hỗ trợ khách hàng.
 
 ## Thông tin liên hệ
 
-- **Email:** [your-email@example.com]
-- **Điện thoại:** [Số điện thoại của bạn]
-- **Facebook:** [Link Facebook của bạn]
-
-Hoặc bạn có thể gửi tin nhắn trực tiếp qua email, tôi sẽ phản hồi trong vòng 24 giờ.
+- **Điện thoại:** 0396.721.223
+- **Địa chỉ:** Ấp 1, xã Cái Đôi Vàm, tỉnh Cà Mau
+- **Email:** ttvu@outlook.com
