@@ -23,15 +23,18 @@ markup:
 
 menu:
   main:
-    - name: "Trang Chủ"
+    - name: "Trang chủ"
       url: "/"
       weight: 1
-    - name: "Hướng Dẫn Sử Dụng"
+    - name: "Hướng dẫn"
       url: "/docs/"
       weight: 2
-    - name: "Liên Hệ"
-      url: "/contact/"
+    - name: "Bảo hành"
+      url: "/warranty/"
       weight: 3
+    - name: "Liên hệ"
+      url: "/contact/"
+      weight: 4
 
 params:    
   navbar:
