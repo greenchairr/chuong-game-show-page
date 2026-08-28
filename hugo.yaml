@@ -1,6 +1,3 @@
-
-heading:
-  anchors: false
   
 baseURL: https://github.com/greenchairr/chuong-game-show-page/
 
@@ -34,8 +31,7 @@ menu:
       url: "/contact/"
       weight: 3
 
-params:
-    
+params:    
   navbar:
     displayTitle: true
     displayLogo: true
@@ -45,12 +41,16 @@ params:
       height: 40
       link: /chuong-game-show-page/
 
+  heading:
+    anchors: false
+    
   footer:
     displayCopyright: false
     displayPoweredBy: false
 
   editURL:
     enable: false
+
   
 
   
