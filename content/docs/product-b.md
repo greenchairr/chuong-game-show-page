@@ -83,6 +83,7 @@ image: "/images/product-b-thumb.jpg"
 - Nhấn **giữ 2 giây** nút màu **Trắng** trên bộ điều khiển trung tâm để tắt toàn bộ các nút đội.
 - Hoặc nhấn giữ nút trên mỗi thiết bị trong **4 giây** để tắt từng nút riêng lẻ.
 
+> **⚠️ Lưu ý quan trọng:** Thiết bị sẽ tự động tắt sau 30 phút không có bất kì hoạt động nào.
 ---
 
 ## 3. Bảo quản và bảo dưỡng
