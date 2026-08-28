@@ -1,17 +1,14 @@
 ---
-title: My Site
-toc: false
+title: "Chào mừng đến với Chuông Gameshow Không Dây"
 ---
 
-This is the landing page.
+## Giới thiệu sản phẩm
 
-## Explore
+Chào bạn! Chúng mình thiết kế và hoàn thiện từng bộ chuông bấm với mong muốn mang lại tiếng cười, sự kịch tính và sôi động cho mọi cuộc so tài. 
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+## Hướng dẫn nhanh
 
-## Documentation
+- Xem hướng dẫn chi tiết trong phần **Manual**.
+- Liên hệ tôi nếu cần hỗ trợ.
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+![Hình ảnh sản phẩm](/images/product-banner.jpg)
