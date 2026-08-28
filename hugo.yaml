@@ -1,5 +1,7 @@
 # Hugo configuration file
-title: My Site
+title: Điện Tử Cà Mau               # ← Change this to your product/brand name
+logo: "/images/your-logo.png"       # ← Or link to your logo image
+logoWidth: 40                       # ← Adjust size if needed
 
 # import hextra as module
 module:
@@ -18,29 +20,16 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: "Home"
+      url: "/"
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: "Manual"
+      url: "/docs/"
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: "Contact"
+      url: "/contact/"
       weight: 3
-    - name: Search
-      weight: 4
-      params:
-        type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+      
 
 params:
   navbar:
