@@ -11,7 +11,7 @@ Tại **Điện Tử Cà Mau**, chúng tôi cam kết mang đến sản phẩm c
 
 ---
 
-## 📦 1. Bảo hành đổi mới trong 30 ngày
+## 1. Bảo hành đổi mới trong 30 ngày
 
 **Thời gian:** Kể từ ngày bạn nhận được sản phẩm (theo dấu bưu điện hoặc xác nhận giao hàng).
 
@@ -30,7 +30,7 @@ Tại **Điện Tử Cà Mau**, chúng tôi cam kết mang đến sản phẩm c
 
 ---
 
-## 🔧 2. Bảo hành sửa chữa trọn đời
+## 2. Bảo hành sửa chữa trọn đời
 
 **Sau 30 ngày,** chúng tôi vẫn đồng hành cùng bạn **trọn đời sản phẩm**.
 
@@ -48,7 +48,7 @@ Tại **Điện Tử Cà Mau**, chúng tôi cam kết mang đến sản phẩm c
 
 ---
 
-## 🔄 3. Quy trình xử lý khi có sự cố
+## 3. Quy trình xử lý khi có sự cố
 
 | Bước | Hành động của khách hàng | Hành động của Điện Tử Cà Mau |
 |------|--------------------------|------------------------------|
@@ -59,7 +59,7 @@ Tại **Điện Tử Cà Mau**, chúng tôi cam kết mang đến sản phẩm c
 
 ---
 
-## ⚠️ 4. Các trường hợp không được bảo hành
+## 4. Các trường hợp không được bảo hành
 
 Chính sách bảo hành **không áp dụng** cho các trường hợp sau:
 
@@ -70,16 +70,9 @@ Chính sách bảo hành **không áp dụng** cho các trường hợp sau:
 
 ---
 
-## 📱 5. Liên hệ bảo hành
+## 5. Liên hệ bảo hành
 
-Khi cần hỗ trợ bảo hành, vui lòng liên hệ với chúng tôi qua:
-
-- **📧 Email:** [your-email@example.com]
-- **📱 Điện thoại:** [Số điện thoại của bạn]
-- **🌐 Website:** [your-website.com]
-- **📍 Địa chỉ:** [Địa chỉ của bạn]
-
-**Thời gian phản hồi:** Chúng tôi sẽ phản hồi trong vòng **24 giờ** làm việc.
+Khi cần hỗ trợ bảo hành, vui lòng liên hệ với chúng tôi
 
 ---
 
@@ -87,7 +80,7 @@ Khi cần hỗ trợ bảo hành, vui lòng liên hệ với chúng tôi qua:
 
 ---
 
-## 📝 Tóm tắt chính sách
+## Tóm tắt chính sách
 
 | Giai đoạn | Bảo hành | Chi phí |
 |-----------|----------|---------|
