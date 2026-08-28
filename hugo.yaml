@@ -1,7 +1,9 @@
+baseURL: https://greenchairr.github.io/chuong-game-show-page/
+
 # Hugo configuration file
-title: Điện Tử Cà Mau               # ← Change this to your product/brand name
-logo: "/images/your-logo.png"       # ← Or link to your logo image
-logoWidth: 40                       # ← Adjust size if needed
+title: Điện Tử Cà Mau
+logo: "/images/your-logo.png"
+logoWidth: 40
 
 # import hextra as module
 module:
@@ -29,7 +31,6 @@ menu:
     - name: "Contact"
       url: "/contact/"
       weight: 3
-      
 
 params:
   navbar:
