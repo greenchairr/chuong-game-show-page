@@ -3,7 +3,7 @@ baseURL: https://github.com/greenchairr/chuong-game-show-page/
 
 # Hugo configuration file
 title: Điện Tử Cà Mau
-favicon: ./images/your-logo.png
+favicon: /images/your-logo.png
 
 # import hextra as module
 module:
