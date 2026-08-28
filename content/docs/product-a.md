@@ -1,14 +1,14 @@
 ---
-title: "Hướng dẫn sử dụng Sản phẩm A"
-linkTitle: "Sản phẩm A"
-description: "Hướng dẫn chi tiết cách sử dụng Sản phẩm A"
+title: "Hướng dẫn sử dụng"
+linkTitle: "Chuông V1"
+description: "Hướng dẫn chi tiết cách sử dụng Chuông V1"
 weight: 1
 image: "/images/product-a-thumb.jpg"
 ---
 
 ## Video hướng dẫn
 
-{{< youtube "YOUR_YOUTUBE_VIDEO_ID_HERE" >}}
+{{< youtube "https://youtube.com/shorts/Kr2_BZ85g2I?si=jCoFZVvAc823ICCg" >}}
 
 ---
 
