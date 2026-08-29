@@ -5,8 +5,6 @@ description: "Chính sách bảo hành chuông gameshow của Điện Tử Cà M
 weight: 4
 ---
 
-# Chính sách bảo hành
-
 Tại **Điện Tử Cà Mau**, chúng tôi cam kết mang đến sản phẩm chất lượng và dịch vụ hậu mãi tốt nhất cho khách hàng. Dưới đây là chính sách bảo hành chi tiết.
 
 ---
