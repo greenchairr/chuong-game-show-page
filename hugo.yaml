@@ -3,7 +3,7 @@ defaultContentLanguage: vi
 baseURL: https://github.com/greenchairr/chuong-game-show-page/
 
 # Hugo configuration file
-title: Điện Tử Cà Mau
+title: Chuông Gameshow không dây
 
 # import hextra as module
 module:
