@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn sử dụng Chuông Gameshow V2"
+title: "Chuông Gameshow V2"
 linkTitle: "Chuông V2"
 description: "Phiên bản nâng cấp với đèn LED RGB trên nút tổng, hiển thị màu đội chiến thắng"
 weight: 2
