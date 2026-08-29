@@ -4,7 +4,7 @@ title: "Liên hệ"
 
 ## Về cửa hàng
 
-HKD Điện Tử Cà Mau – Phát triển và Phân phối sản phẩm Chuông Gameshow không dây.
+**HKD Điện Tử Cà Mau – Phát triển và Phân phối sản phẩm Chuông Gameshow không dây.**
 
 Chúng tôi luôn mong muốn mang đến trải nghiệm tốt nhất và luôn sẵn sàng hỗ trợ khách hàng trong khả năng của mình.
 
