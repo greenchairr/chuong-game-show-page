@@ -1,92 +1,94 @@
-/* Contact Icons - Small, Side-by-Side */
+/* Force buttons to be small and side-by-side */
 .app-contact-grid {
-  display: flex;
-  gap: 16px;
-  justify-content: center;
-  align-items: center;
-  margin: 24px 0 32px 0;
-  flex-wrap: wrap;
+  display: flex !important;
+  flex-direction: row !important;
+  gap: 16px !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin: 24px 0 32px 0 !important;
+  flex-wrap: wrap !important;
+  max-width: 100% !important;
 }
 
 .app-contact-btn {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 6px;
-  text-decoration: none;
-  transition: transform 0.2s ease;
-  flex: 0 0 auto;  /* Prevent stretching */
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  gap: 6px !important;
+  text-decoration: none !important;
+  transition: transform 0.2s ease !important;
+  flex: 0 0 auto !important;        /* Prevents stretching */
+  width: auto !important;            /* Prevents full-width */
+  padding: 0 !important;             /* Removes extra padding */
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
 .app-contact-btn:hover {
-  transform: translateY(-3px);
+  transform: translateY(-3px) !important;
 }
 
 /* App Icon - Small */
 .app-icon {
-  width: 48px;
-  height: 48px;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  width: 48px !important;
+  height: 48px !important;
+  border-radius: 12px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12) !important;
+  flex-shrink: 0 !important;         /* Prevents shrinking */
 }
 
 .app-icon img {
-  width: 24px;
-  height: 24px;
-  object-fit: contain;
+  width: 24px !important;
+  height: 24px !important;
+  object-fit: contain !important;
+  filter: brightness(0) invert(1) !important;
 }
 
 /* Individual app colors */
 .app-icon.call-icon {
-  background: linear-gradient(135deg, #22c55e, #16a34a);
+  background: linear-gradient(135deg, #22c55e, #16a34a) !important;
 }
 
 .app-icon.zalo-icon {
-  background: linear-gradient(135deg, #0068ff, #0052cc);
+  background: linear-gradient(135deg, #0068ff, #0052cc) !important;
 }
 
 .app-icon.telegram-icon {
-  background: linear-gradient(135deg, #0088cc, #006699);
-}
-
-/* White logos on dark backgrounds */
-.app-icon.call-icon img,
-.app-icon.zalo-icon img,
-.app-icon.telegram-icon img {
-  filter: brightness(0) invert(1);
+  background: linear-gradient(135deg, #0088cc, #006699) !important;
 }
 
 /* Label below icon */
 .app-label {
-  font-size: 12px;
-  font-weight: 500;
-  color: #374151;
-  text-align: center;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  color: #374151 !important;
+  text-align: center !important;
 }
 
-/* Remove arrow - not needed for icon style */
+/* Hide any arrows or extra elements */
 .app-contact-btn .arrow {
-  display: none;
+  display: none !important;
 }
 
 /* Mobile: Slightly smaller */
 @media (max-width: 480px) {
   .app-icon {
-    width: 42px;
-    height: 42px;
-    border-radius: 10px;
+    width: 42px !important;
+    height: 42px !important;
+    border-radius: 10px !important;
   }
   .app-icon img {
-    width: 20px;
-    height: 20px;
+    width: 20px !important;
+    height: 20px !important;
   }
   .app-label {
-    font-size: 11px;
+    font-size: 11px !important;
   }
   .app-contact-grid {
-    gap: 12px;
+    gap: 12px !important;
   }
 }
