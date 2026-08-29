@@ -115,9 +115,6 @@ image: "/images/product-c-thumb.jpg"
 | Sự cố | Nguyên nhân | Cách khắc phục |
 |-------|-------------|----------------|
 | Không thể bật nguồn | Pin yếu hoặc hết pin | Sạc đầy pin trước khi sử dụng |
-| Nút không kết nối được | Khoảng cách quá xa hoặc nhiễu tín hiệu | Đưa các thiết bị lại gần nhau (trong vòng 30m) |
-| Chuông không reo khi có đội nhấn nút | Lỗi kết nối hoặc tắt chuông | Kiểm tra kết nối, kiểm tra cài đặt chuông |
-| Đèn cảnh báo xoay không hoạt động | Lỗi kết nối hoặc pin yếu | Kiểm tra kết nối với bộ điều khiển, sạc đầy pin |
 | Đèn nhấp nháy liên tục | Chưa kết nối được với bộ điều khiển | Tắt và bật lại nút, sau đó kết nối lại với bộ điều khiển |
 | Muốn thêm đội mới | Đội chơi tăng lên | Đặt mua thêm nút đội lẻ trên website hoặc liên hệ hotline |
-| Sạc không vào | Sử dụng sai củ sạc | Chỉ sử dụng bộ sạc USB-A to Type-C đi kèm |
+| Sạc không vào | Sử dụng sai củ sạc | Chỉ sử dụng bộ sạc USB-A to Type-C |
