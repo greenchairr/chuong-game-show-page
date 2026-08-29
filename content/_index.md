@@ -31,26 +31,17 @@ Cần tư vấn hoặc đặt hàng? Chúng tôi sẵn sàng hỗ trợ bạn!
 
 Nhấn vào logo để gọi hoặc nhắn tin qua ứng dụng:
 
-<div class="app-contact-grid">
-  <a href="tel:+84396721223" class="app-contact-btn">
-    <div class="app-icon call-icon">
-      <img src="./images/phone.png" alt="Gọi điện">
-    </div>
-    <span class="app-label">Gọi điện</span>
+<div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+  <a href="tel:0396721223" style="text-decoration: none; text-align: center;">
+    <div style="font-size: 40px;">📞</div>
+    <span style="display: block; font-size: 12px; color: #333;">Gọi điện</span>
   </a>
-
-  <a href="https://zalo.me/0396721223" class="app-contact-btn">
-    <div class="app-icon zalo-icon">
-      <img src="./images/zalo-logo.png" alt="Zalo">
-    </div>
-    <span class="app-label">Zalo</span>
+  <a href="https://zalo.me/0396721223" style="text-decoration: none; text-align: center;">
+    <div style="font-size: 40px;">💬</div>
+    <span style="display: block; font-size: 12px; color: #333;">Zalo</span>
   </a>
-
-  <a href="https://t.me/+84396721223" class="app-contact-btn">
-    <div class="app-icon telegram-icon">
-      <img src="./images/telegram-logo.png" alt="Telegram">
-    </div>
-    <span class="app-label">Telegram</span>
+  <a href="https://t.me/+84396721223" style="text-decoration: none; text-align: center;">
+    <div style="font-size: 40px;">✈️</div>
+    <span style="display: block; font-size: 12px; color: #333;">Telegram</span>
   </a>
 </div>
-
