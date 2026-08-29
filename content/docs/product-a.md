@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn sử dụng Chuông Gameshow V1"
+title: "Chuông Gameshow V1"
 linkTitle: "Chuông V1"
 description: "Phiên bản cơ bản, phù hợp cho các sự kiện nhỏ và vừa"
 weight: 1
