@@ -35,7 +35,10 @@ menu:
       url: "/contact/"
       weight: 4
 
-params:    
+params: 
+  customCSS:
+    - /css/custom.css
+    
   navbar:
     displayTitle: true
     displayLogo: true
