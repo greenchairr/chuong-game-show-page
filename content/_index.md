@@ -34,21 +34,21 @@ Nhấn vào logo để gọi hoặc nhắn tin qua ứng dụng:
 <div class="app-contact-grid">
   <a href="tel:+84396721223" class="app-contact-btn">
     <div class="app-icon call-icon">
-      <img src="./images/phone.png" alt="Gọi điện">
+      <img src="/images/phone.png" alt="Gọi điện">
     </div>
     <span class="app-label">Gọi điện</span>
   </a>
 
   <a href="https://zalo.me/0396721223" class="app-contact-btn">
     <div class="app-icon zalo-icon">
-      <img src="./images/zalo-logo.png" alt="Zalo">
+      <img src="/images/zalo-logo.png" alt="Zalo">
     </div>
     <span class="app-label">Zalo</span>
   </a>
 
   <a href="https://t.me/+84396721223" class="app-contact-btn">
     <div class="app-icon telegram-icon">
-      <img src="./images/telegram-logo.png" alt="Telegram">
+      <img src="/images/telegram-logo.png" alt="Telegram">
     </div>
     <span class="app-label">Telegram</span>
   </a>
