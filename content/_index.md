@@ -4,7 +4,7 @@ title: ""
 
 ## Giới thiệu
 
-Chào mừng bạn đến với **Điện Tử Cà Mau** – nơi cung cấp chuông gameshow giành quyền trả lời chất lượng cao cho mọi sự kiện.
+Chào mừng bạn đến với **Điện Tử Cà Mau** – nơi cung cấp **Chuông Gameshow giành quyền trả lời** chất lượng cao cho mọi sự kiện.
 
 Sản phẩm của chúng tôi giúp các đội chơi dễ dàng giành quyền trả lời, tạo không khí sôi động và công bằng cho các chương trình gameshow, team-building, và sự kiện giải trí.
 
