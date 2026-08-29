@@ -10,7 +10,9 @@ Chúng tôi luôn mong muốn mang đến trải nghiệm tốt nhất và luôn
 
 ## Xuất hóa đơn điện tử
 
-Khi có nhu cầu xuất hóa đơn quý khách vui lòng cung cấp đầy đủ thông tin bao gồm: **Mã số thuê, Tên đơn vị, Địa chỉ, và Email nhận hóa đơn**. Cửa hàng có nhiệm vụ xuất hóa đơn cho khách hàng khi có yêu cầu và gửi file thể hiện về mail hoặc Zalo cho quý khách. Nếu không có nhu cầu cửa hàng sẽ xuất hóa đơn như là khách lẻ.
+Khi có nhu cầu xuất hóa đơn quý khách vui lòng cung cấp đầy đủ thông tin bao gồm: **Mã số thuê, Tên đơn vị, Địa chỉ, và Email nhận hóa đơn**.
+
+Cửa hàng có nhiệm vụ xuất hóa đơn cho khách hàng khi có yêu cầu và gửi file thể hiện về mail hoặc Zalo cho quý khách. Nếu không có nhu cầu cửa hàng sẽ xuất hóa đơn như là khách lẻ.
 
 ## Thông tin thanh toán
 
