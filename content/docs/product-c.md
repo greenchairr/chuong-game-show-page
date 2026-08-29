@@ -1,5 +1,5 @@
 ---
-title: "Hướng dẫn sử dụng Chuông Gameshow V3"
+title: "Chuông Gameshow V3"
 linkTitle: "Chuông V3"
 description: "Phiên bản cao cấp với đèn cảnh báo xoay và chuông vật lý, tạo hiệu ứng âm thanh và ánh sáng ấn tượng"
 weight: 3
