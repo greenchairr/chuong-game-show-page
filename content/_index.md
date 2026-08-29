@@ -25,6 +25,11 @@ Dưới đây là một số hình ảnh khách hàng đang sử dụng sản ph
 
 ---
 
-## Bắt đầu ngay hôm nay
+## 📱 Liên hệ ngay
 
-Liên hệ với chúng tôi để được tư vấn và đặt hàng.
+Cần tư vấn hoặc đặt hàng? Chúng tôi sẵn sàng hỗ trợ bạn!
+
+{{< cards >}}
+  {{< card link="tel:+84396721223" title="📞 Gọi điện" subtitle="Hotline hỗ trợ 24/7" >}}
+  {{< card link="https://zalo.me/0396721223" title="💬 Zalo" subtitle="Nhắn tin qua Zalo" >}}
+{{< /cards >}}
