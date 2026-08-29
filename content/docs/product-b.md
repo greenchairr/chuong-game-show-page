@@ -17,7 +17,7 @@ image: "/images/product-b-thumb.jpg"
 **Chuông Gameshow Giành Quyền Trả Lời Không Dây V2** là phiên bản nâng cấp với tính năng **đèn LED RGB** trên bộ điều khiển trung tâm. Khi một đội nhấn nút thành công, bộ điều khiển sẽ sáng lên với màu sắc của đội đó, giúp người dẫn chương trình và khán giả dễ dàng nhận biết đội nào đã giành quyền trả lời ngay lập tức.
 
 **Ai nên dùng?**
-- Các sự kiện vừa và lớn
+- Các sự kiện vừa và nhỏ
 - Chương trình gameshow truyền hình
 - Sự kiện cần hiệu ứng hình ảnh ấn tượng
 - Người dẫn chương trình muốn phản hồi trực quan nhanh chóng
