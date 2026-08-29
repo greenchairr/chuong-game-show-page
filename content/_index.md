@@ -20,7 +20,6 @@ Dưới đây là một số hình ảnh khách hàng đang sử dụng sản ph
   {{< card image="/images/gallery/customer-3.jpg" title="Cuộc thi tiếng Anh" >}}
   {{< card image="/images/gallery/customer-4.jpg" title="Cuộc thi tiếng Anh" >}}
   {{< card image="/images/gallery/customer-5.jpg" title="Cuộc thi An Ninh Quốc Gia" >}}
-  {{< card image="/images/gallery/customer-6.jpg" title="Sự kiện thể thao" >}}
 {{< /cards >}}
 
 ---
