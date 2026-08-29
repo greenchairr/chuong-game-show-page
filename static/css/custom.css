@@ -1,0 +1,92 @@
+/* App-Style Contact Grid */
+.app-contact-grid {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 24px 0 32px 0;
+  flex-wrap: wrap;
+}
+
+.app-contact-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  transition: transform 0.2s ease;
+}
+
+.app-contact-btn:hover {
+  transform: translateY(-4px);
+}
+
+/* App Icon - Square with rounded corners (iOS/Android style) */
+.app-icon {
+  width: 72px;
+  height: 72px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: box-shadow 0.2s ease;
+}
+
+.app-icon:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+
+.app-icon img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+/* Individual app colors */
+.app-icon.call-icon {
+  background: linear-gradient(135deg, #22c55e, #16a34a);
+}
+
+.app-icon.zalo-icon {
+  background: linear-gradient(135deg, #0068ff, #0052cc);
+}
+
+.app-icon.telegram-icon {
+  background: linear-gradient(135deg, #0088cc, #006699);
+}
+
+/* Optional: If your logo is white on dark background, add this */
+.app-icon.call-icon img,
+.app-icon.zalo-icon img,
+.app-icon.telegram-icon img {
+  filter: brightness(0) invert(1);
+}
+
+/* App label (text below icon) */
+.app-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: #374151;
+  text-align: center;
+  letter-spacing: 0.3px;
+}
+
+/* Responsive: Slightly smaller on mobile */
+@media (max-width: 480px) {
+  .app-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 14px;
+  }
+  .app-icon img {
+    width: 32px;
+    height: 32px;
+  }
+  .app-label {
+    font-size: 11px;
+  }
+  .app-contact-grid {
+    gap: 16px;
+  }
+}
