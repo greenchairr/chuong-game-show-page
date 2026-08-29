@@ -25,7 +25,7 @@ Dưới đây là một số hình ảnh khách hàng đang sử dụng sản ph
 
 ---
 
-## 📱 Liên hệ ngay
+## Liên hệ ngay
 
 Cần tư vấn hoặc đặt hàng? Chúng tôi sẵn sàng hỗ trợ bạn!
 
