@@ -8,6 +8,7 @@ Chào mừng bạn đến với **Điện Tử Cà Mau** – nơi cung cấp **C
 
 Sản phẩm của chúng tôi giúp các đội chơi dễ dàng giành quyền trả lời, tạo không khí sôi động và công bằng cho các chương trình gameshow, team-building, và sự kiện giải trí.
 
+👉 **[Nhấp vào đây để vào trang Hướng dẫn sử dụng](/docs/)** – Xem hướng dẫn chi tiết cho từng sản phẩm.
 ---
 
 ## Khách hàng của chúng tôi
