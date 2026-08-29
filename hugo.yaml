@@ -37,7 +37,7 @@ menu:
 
 params: 
   customCSS:
-    - /css/custom.css
+    - ./css/custom.css
     
   navbar:
     displayTitle: true
