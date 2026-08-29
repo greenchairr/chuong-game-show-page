@@ -10,9 +10,9 @@ Chúng tôi luôn mong muốn mang đến trải nghiệm tốt nhất và luôn
 
 ## Thông tin thanh toán
 
-Tài khoản: MB Bank - Ngân Hàng Quân Đội
-
-Số tài khoản: 990609698
+- Ngân hàng thụ hưởng: MB Bank - Ngân Hàng Quân Đội 
+- Chủ tài khoản: HKD ĐIỆN TỬ CÀ MAU 
+- Số tài khoản: 990609698
 
 ## Thông tin liên hệ
 
