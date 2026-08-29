@@ -1,5 +1,5 @@
 ---
-title: "Điện Tử Cà Mau"
+title: ""
 ---
 
 ## Giới thiệu
