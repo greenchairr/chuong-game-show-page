@@ -19,7 +19,7 @@ Tại **Điện Tử Cà Mau**, chúng tôi cam kết mang đến sản phẩm c
 - Sản phẩm còn nguyên tem niêm phong (nếu có).
 
 **Quy trình:**
-1. Liên hệ với chúng tôi qua **Email** hoặc **Số điện thoại** (thông tin bên dưới).
+1. Liên hệ với chúng tôi qua **Số điện thoại** (thông tin bên dưới).
 2. Cung cấp hóa đơn mua hàng hoặc mã đơn hàng.
 3. Nhân viên giao hàng tận nơi sẽ mang sản phẩm mới đến và nhận lại sản phẩm bị lỗi.
 4. **Hoàn toàn miễn phí** – Bạn không phải trả bất kỳ chi phí nào.
@@ -50,7 +50,7 @@ Tại **Điện Tử Cà Mau**, chúng tôi cam kết mang đến sản phẩm c
 
 | Bước | Hành động của khách hàng | Hành động của Điện Tử Cà Mau |
 |------|--------------------------|------------------------------|
-| 1 | Liên hệ qua Email hoặc Số điện thoại | Tiếp nhận thông tin, xác nhận tình trạng sản phẩm |
+| 1 | Liên hệ qua Số điện thoại | Tiếp nhận thông tin, xác nhận tình trạng sản phẩm |
 | 2 | Cung cấp hóa đơn / mã đơn hàng | Kiểm tra thông tin bảo hành |
 | 3 | (Nếu trong 30 ngày) Đồng ý nhận sản phẩm mới | Nhân viên giao hàng đến tận nơi, đổi sản phẩm mới |
 | 4 | (Nếu sau 30 ngày) Gửi sản phẩm về cho chúng tôi | Kiểm tra, sửa chữa và gửi lại sản phẩm |
