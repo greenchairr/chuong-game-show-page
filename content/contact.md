@@ -20,6 +20,20 @@ Cửa hàng có nhiệm vụ xuất hóa đơn cho khách hàng khi có yêu c�
 - Chủ tài khoản: HKD ĐIỆN TỬ CÀ MAU 
 - Số tài khoản: 990609698
 
+## Chính sách giao hàng
+
+Chúng tôi cam kết giao hàng nhanh chóng và tiện lợi cho khách hàng trên toàn quốc.
+
+| Chính sách | Chi tiết |
+|------------|----------|
+| **🚚 Miễn phí vận chuyển** | ✅ **Hoàn toàn miễn phí** cho tất cả đơn hàng. Không giới hạn số lượng, không giới hạn khu vực. |
+| **📦 Đóng gói cẩn thận** | Sản phẩm được đóng gói chắc chắn, chống sốc để đảm bảo an toàn trong quá trình vận chuyển. |
+| **⏱️ Thời gian giao hàng** | **2 – 5 ngày làm việc** tùy thuộc vào khu vực (có thể nhanh hơn cho các tỉnh lân cận). |
+| **📱 Theo dõi đơn hàng** | Mã vận đơn sẽ được gửi qua Zalo hoặc Telegram sau khi đơn hàng được bàn giao cho đơn vị vận chuyển. |
+| **🔄 Đổi trả** | Hỗ trợ đổi trả sản phẩm nếu có lỗi từ nhà sản xuất (tham khảo [chính sách bảo hành](/warranty/)). |
+
+> 💡 **Lưu ý:** Vui lòng kiểm tra kỹ sản phẩm khi nhận hàng. Nếu có vấn đề, hãy quay video mở hộp và liên hệ với chúng tôi ngay để được hỗ trợ nhanh nhất.
+
 ## Thông tin liên hệ
 
 - **Điện thoại:** 0396.721.223
