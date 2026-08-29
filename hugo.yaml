@@ -4,7 +4,6 @@ baseURL: https://github.com/greenchairr/chuong-game-show-page/
 
 # Hugo configuration file
 title: Điện Tử Cà Mau
-favicon: /web-app-manifest-512x512.png
 
 # import hextra as module
 module:
@@ -41,7 +40,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: "./images/your-logo.png"   
+      path: "./web-app-manifest-512x512.png"   
       width: 40
       height: 40
       link: /chuong-game-show-page/
