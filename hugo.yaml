@@ -28,12 +28,15 @@ menu:
     - name: "Hướng dẫn"
       url: "/docs/"
       weight: 2
+    - name: "Ý tưởng trò chơi"
+      url: "/game-ideas/"
+      weight: 3
     - name: "Bảo hành"
       url: "/warranty/"
-      weight: 3
+      weight: 4
     - name: "Liên hệ"
       url: "/contact/"
-      weight: 4
+      weight: 5
 
 params: 
     
